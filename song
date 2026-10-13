@@ -1,0 +1,344 @@
+{
+  "success": true,
+  "playlists": [
+    {
+      "name": "A$AP Rocky",
+      "description": "",
+      "ImageId": "",
+      "songs": [
+        {
+          "SongName": "PLAYA",
+          "SoundId": "rbxassetid://134293246575515",
+          "ImageId": "",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+          "SoundId": "rbxassetid://78862218616844",
+          "ImageId": "",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "STOLE YA FLOW",
+          "SoundId": "rbxassetid://94529446714834",
+          "ImageId": "",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "INTERROGATION (SKIT)",
+          "SoundId": "rbxassetid://107710611936517",
+          "ImageId": "",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "HELICOPTER",
+          "SoundId": "rbxassetid://77014282159249",
+          "ImageId": "",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "ORDER OF PROTECTION",
+          "SoundId": "rbxassetid://127369698033320",
+          "ImageId": "",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "PUNK ROCKY",
+          "SoundId": "rbxassetid://104225121578630",
+          "ImageId": "",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "#### (feat. Slay Squad)",
+          "SoundId": "rbxassetid://97806321408365",
+          "ImageId": "",
+          "PlaybackSpeed": 0.435
+        }
+      ]
+    },
+    {
+      "name": "Drake",
+      "description": "",
+      "ImageId": "rbxassetid://72515427652719",
+      "songs": [
+        {
+          "SongName": "Started From the Bottom",
+          "SoundId": "rbxassetid://86444107781371",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Moment 4 Life",
+          "SoundId": "rbxassetid://109713361006431",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "BackOutsideBoyz",
+          "SoundId": "rbxassetid://136533589592651",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "MIA (feat. Drake)",
+          "SoundId": "rbxassetid://136912236008390",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "What's My Name?",
+          "SoundId": "rbxassetid://90979485739327",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Headlines",
+          "SoundId": "rbxassetid://135778394863835",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Broke Boys",
+          "SoundId": "rbxassetid://100210864568041",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "IDGAF (feat. Yeat)",
+          "SoundId": "rbxassetid://70687702494766",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "What Would Pluto Do",
+          "SoundId": "rbxassetid://108843812115734",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+          "SoundId": "rbxassetid://92159634695250",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "You Broke My Heart",
+          "SoundId": "rbxassetid://109030300643799",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Moment 4 Life",
+          "SoundId": "rbxassetid://128733435729669",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "MIA (feat. Drake)",
+          "SoundId": "rbxassetid://93688420958195",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "What's My Name?",
+          "SoundId": "rbxassetid://121330399868753",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Headlines",
+          "SoundId": "rbxassetid://83951929799956",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Broke Boys",
+          "SoundId": "rbxassetid://91761387770150",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "IDGAF (feat. Yeat)",
+          "SoundId": "rbxassetid://75055173946706",
+          "ImageId": "rbxassetid://72515427652719",
+          "PlaybackSpeed": 0.435
+        }
+      ]
+    },
+    {
+      "name": "Playboi Carti",
+      "description": "",
+      "ImageId": "rbxassetid://105963945655418",
+      "songs": [
+        {
+          "SongName": "wokeuplikethis*",
+          "SoundId": "rbxassetid://93839667765228",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "R.I.P.",
+          "SoundId": "rbxassetid://102422145951305",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Rockstar Made",
+          "SoundId": "rbxassetid://96389614935831",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Old Money",
+          "SoundId": "rbxassetid://129022127819167",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Love Hurts (feat. Travis Scott)",
+          "SoundId": "rbxassetid://110926562887497",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Foreign",
+          "SoundId": "rbxassetid://128554227899215",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Pull Up",
+          "SoundId": "rbxassetid://71114960011011",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Mileage (feat. Chief Keef)",
+          "SoundId": "rbxassetid://115672219534365",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "FlatBed Freestyle",
+          "SoundId": "rbxassetid://135701432938545",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "No Time (feat. Gunna)",
+          "SoundId": "rbxassetid://123371986839237",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Choppa Won't Miss (feat. Young Thug)",
+          "SoundId": "rbxassetid://136725440690391",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Top (feat. Pi'erre Bourne)",
+          "SoundId": "rbxassetid://78029551431738",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Shoota (feat. Lil Uzi Vert)",
+          "SoundId": "rbxassetid://120193302648770",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "@ MEH",
+          "SoundId": "rbxassetid://98990161598925",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Sky",
+          "SoundId": "rbxassetid://77648359899344",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Kelly K",
+          "SoundId": "rbxassetid://114631918108630",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Lean 4 Real (feat. Skepta)",
+          "SoundId": "rbxassetid://136204230839539",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Of Course We Ghetto Flowers (feat. Playboi Carti & Offset)",
+          "SoundId": "rbxassetid://126778194053200",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Let It Go",
+          "SoundId": "rbxassetid://78613202001265",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "ILoveUIHateU",
+          "SoundId": "rbxassetid://71291600725230",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Location",
+          "SoundId": "rbxassetid://100663278886359",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Uh Uh (feat. Playboi Carti)",
+          "SoundId": "rbxassetid://78291353284849",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Yah Mean",
+          "SoundId": "rbxassetid://71860363135360",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "New Choppa",
+          "SoundId": "rbxassetid://77075997601859",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Untitled Audio",
+          "SoundId": "rbxassetid://95559504247528",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Vamp Anthem",
+          "SoundId": "rbxassetid://96128597492924",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Go2DaMoon (feat. Kanye West)",
+          "SoundId": "rbxassetid://106123284366304",
+          "ImageId": "rbxassetid://105963945655418",
+          "PlaybackSpeed": 0.435
+        }
+      ]
+    },
+    {
+      "name": "Tyler the Creator",
+      "description": "",
+      "ImageId": "rbxassetid://87089070714547",
+      "songs": []
+    }
+  ]
+}
