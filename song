@@ -95,6 +95,36 @@
           "SoundId": "rbxassetid://77014282159249",
           "ImageId": "rbxassetid://97369878640374",
           "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Holy Ghost (feat. Joe Fox)",
+          "SoundId": "rbxassetid://96209701376725",
+          "ImageId": "rbxassetid://97369878640374",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
+          "SoundId": "rbxassetid://104709554432208",
+          "ImageId": "rbxassetid://97369878640374",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "JD",
+          "SoundId": "rbxassetid://80949774658314",
+          "ImageId": "rbxassetid://97369878640374",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Fine Whine (feat. Joe Fox, Future & M.I.A.)",
+          "SoundId": "rbxassetid://84748801053940",
+          "ImageId": "rbxassetid://97369878640374",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Jukebox Joints (feat. Joe Fox & Kanye West)",
+          "SoundId": "rbxassetid://123313463316689",
+          "ImageId": "rbxassetid://97369878640374",
+          "PlaybackSpeed": 0.435
         }
       ]
     },
