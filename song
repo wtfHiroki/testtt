@@ -405,6 +405,143 @@
           "PlaybackSpeed": 0.435
         }
       ]
+    },
+    {
+      "name": "Akon",
+      "description": "",
+      "ImageId": "rbxassetid://125943569675210",
+      "songs": [
+        {
+          "SongName": "Smack That",
+          "SoundId": "rbxassetid://126918206352864",
+          "ImageId": "rbxassetid://125943569675210",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Akon - Right Now (Na Na Na) (Official Video)",
+          "SoundId": "rbxassetid://121208678345541",
+          "ImageId": "rbxassetid://125943569675210",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Akon - Beautiful (Official Music Video) ft. Colby O'Donis, Kardinal Offishall",
+          "SoundId": "rbxassetid://92648634518212",
+          "ImageId": "rbxassetid://125943569675210",
+          "PlaybackSpeed": 0.435
+        }
+      ]
+    },
+    {
+      "name": "Chris Brown",
+      "description": "",
+      "ImageId": "rbxassetid://109402392592446",
+      "songs": [
+        {
+          "SongName": "Residuals",
+          "SoundId": "rbxassetid://104414357360435",
+          "ImageId": "rbxassetid://109402392592446",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Under The Influence",
+          "SoundId": "rbxassetid://123600518852921",
+          "ImageId": "rbxassetid://109402392592446",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Loyal",
+          "SoundId": "rbxassetid://113772600182532",
+          "ImageId": "rbxassetid://109402392592446",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "With You",
+          "SoundId": "rbxassetid://111754959702404",
+          "ImageId": "rbxassetid://109402392592446",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Angel Numbers / Ten Toes",
+          "SoundId": "rbxassetid://124876962980764",
+          "ImageId": "rbxassetid://109402392592446",
+          "PlaybackSpeed": 0.435
+        }
+      ]
+    },
+    {
+      "name": "The Chainsmokers",
+      "description": "",
+      "ImageId": "rbxassetid://103851758134813",
+      "songs": [
+        {
+          "SongName": "Closer",
+          "SoundId": "rbxassetid://89098042790290",
+          "ImageId": "rbxassetid://103851758134813",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Don't Let Me Down",
+          "SoundId": "rbxassetid://133601454559007",
+          "ImageId": "rbxassetid://103851758134813",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Roses",
+          "SoundId": "rbxassetid://75505239713496",
+          "ImageId": "rbxassetid://103851758134813",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "All We Know",
+          "SoundId": "rbxassetid://133033443210511",
+          "ImageId": "rbxassetid://103851758134813",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Paris",
+          "SoundId": "rbxassetid://86363468445936",
+          "ImageId": "rbxassetid://103851758134813",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Takeaway",
+          "SoundId": "rbxassetid://86380549076493",
+          "ImageId": "rbxassetid://103851758134813",
+          "PlaybackSpeed": 0.435
+        }
+      ]
+    },
+    {
+      "name": "The Weeknd",
+      "description": "",
+      "ImageId": "rbxassetid://114444772353947",
+      "songs": [
+        {
+          "SongName": "Timeless",
+          "SoundId": "rbxassetid://105513785318652",
+          "ImageId": "rbxassetid://114444772353947",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "Save Your Tears",
+          "SoundId": "rbxassetid://105537618977338",
+          "ImageId": "rbxassetid://114444772353947",
+          "PlaybackSpeed": 0.435
+        }
+      ]
+    },
+    {
+      "name": "Uncle Dags",
+      "description": "",
+      "ImageId": "rbxassetid://82032360226436",
+      "songs": [
+        {
+          "SongName": "Uncle Dags - WENG-WENG (feat. Gaspari) [Official Audio]",
+          "SoundId": "rbxassetid://129076283158608",
+          "ImageId": "rbxassetid://82032360226436",
+          "PlaybackSpeed": 0.435
+        }
+      ]
     }
   ]
 }
