@@ -4,54 +4,96 @@
     {
       "name": "A$AP Rocky",
       "description": "",
-      "ImageId": "",
+      "ImageId": "rbxassetid://97369878640374",
       "songs": [
         {
-          "SongName": "PLAYA",
-          "SoundId": "rbxassetid://134293246575515",
-          "ImageId": "",
+          "SongName": "FLACKITO JODYE (feat. Tokischa)",
+          "SoundId": "rbxassetid://77531073903262",
+          "ImageId": "rbxassetid://97369878640374",
           "PlaybackSpeed": 0.435
         },
         {
-          "SongName": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-          "SoundId": "rbxassetid://78862218616844",
-          "ImageId": "",
+          "SongName": "SWAT TEAM",
+          "SoundId": "rbxassetid://70450060746341",
+          "ImageId": "rbxassetid://97369878640374",
           "PlaybackSpeed": 0.435
         },
         {
-          "SongName": "STOLE YA FLOW",
-          "SoundId": "rbxassetid://94529446714834",
-          "ImageId": "",
+          "SongName": "THE END (feat. will.i.am & Jessica Pratt)",
+          "SoundId": "rbxassetid://124492696553808",
+          "ImageId": "rbxassetid://97369878640374",
           "PlaybackSpeed": 0.435
         },
         {
-          "SongName": "INTERROGATION (SKIT)",
-          "SoundId": "rbxassetid://107710611936517",
-          "ImageId": "",
+          "SongName": "DON'T BE DUMB / TRIP BABY",
+          "SoundId": "rbxassetid://73967629793403",
+          "ImageId": "rbxassetid://97369878640374",
           "PlaybackSpeed": 0.435
         },
         {
-          "SongName": "HELICOPTER",
-          "SoundId": "rbxassetid://77014282159249",
-          "ImageId": "",
-          "PlaybackSpeed": 0.435
-        },
-        {
-          "SongName": "ORDER OF PROTECTION",
-          "SoundId": "rbxassetid://127369698033320",
-          "ImageId": "",
-          "PlaybackSpeed": 0.435
-        },
-        {
-          "SongName": "PUNK ROCKY",
-          "SoundId": "rbxassetid://104225121578630",
-          "ImageId": "",
+          "SongName": "AIR FORCE (BLACK DEMARCO)",
+          "SoundId": "rbxassetid://118543930102872",
+          "ImageId": "rbxassetid://97369878640374",
           "PlaybackSpeed": 0.435
         },
         {
           "SongName": "#### (feat. Slay Squad)",
           "SoundId": "rbxassetid://97806321408365",
-          "ImageId": "",
+          "ImageId": "rbxassetid://97369878640374",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+          "SoundId": "rbxassetid://78862218616844",
+          "ImageId": "rbxassetid://97369878640374",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "ROBBERY (feat. Doechii)",
+          "SoundId": "rbxassetid://85131662411502",
+          "ImageId": "rbxassetid://97369878640374",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "STOLE YA FLOW",
+          "SoundId": "rbxassetid://94529446714834",
+          "ImageId": "rbxassetid://97369878640374",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "INTERROGATION (SKIT)",
+          "SoundId": "rbxassetid://107710611936517",
+          "ImageId": "rbxassetid://97369878640374",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "ORDER OF PROTECTION",
+          "SoundId": "rbxassetid://127369698033320",
+          "ImageId": "rbxassetid://97369878640374",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "FISH N STEAK (WHAT IT IS) (feat. Tyler, The Creator & Jozzy)",
+          "SoundId": "rbxassetid://138195333216715",
+          "ImageId": "rbxassetid://97369878640374",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "PLAYA",
+          "SoundId": "rbxassetid://134293246575515",
+          "ImageId": "rbxassetid://97369878640374",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "PUNK ROCKY",
+          "SoundId": "rbxassetid://104225121578630",
+          "ImageId": "rbxassetid://97369878640374",
+          "PlaybackSpeed": 0.435
+        },
+        {
+          "SongName": "HELICOPTER",
+          "SoundId": "rbxassetid://77014282159249",
+          "ImageId": "rbxassetid://97369878640374",
           "PlaybackSpeed": 0.435
         }
       ]
